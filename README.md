@@ -2,7 +2,7 @@
 
 ## اهـلا بـك
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pack/pack)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https:/pack/github.com/pack/pack)
 
 ## شكـرا لكـم 
 
